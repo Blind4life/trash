@@ -4,8 +4,8 @@
    
 ### Why(motivation)?
    You may find it quiet difficult to form a habit, just like us, according to research, forming a habit may take you about 66 days in average(see **Figure 1**), our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback. Good habits not only allow you to focus on your career and keep you full of energy. Similarly, A growing literature demonstrates the relevance of habit-formation principles to health2.3. herein, we find the entry point of our app.
-![habit forming diagram](https://github.com/Blind4life/Tech/blob/main/habitform_diagram.png?raw=true)
-Figure 1. Habit formation curve
+![habit forming diagram](https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true)
+<center>Figure 1. Habit formation curve</center>
 
 ### How(Problem frame)?
    By investigating the habit forming process, we have summarized several rules of habit forming.
