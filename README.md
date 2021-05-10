@@ -11,21 +11,21 @@
 
 ### How(Problem frame)?
    By investigating the habit forming process, we have summarized several rules of habit forming.
-  1. Not linear!
+  + Not linear!
    It is worth noting that according to research, this process is not linear, which means that the process of habit shaping requires incremental rewards or feedback, That is, the so-called bottleneck period will be encountered in the 60%-80% phase of building habits.
-  2. Repetation-feedback model.
+  + Repetation-feedback model.
   Behavior shaping model that is generally accepted in the psychology academic community is called the repetition-feedback modele, follow the basic The method of the model follows a process of repeating specific behaviors or prohibiting specific behaviors as planned, and obtaining timely feedback.
-  3. Times is all we need.
+  + Times is all we need.
   According to Phillippa Lally's famouse theory, It may take 66 days in average to form a habit, but don't worry, we have enough rewards to help you stick to it.
 
-## Project Objectives
-   Our project is designed to help users form habits, By playing CCG games, our main users groups are those people who want to make changes but don't know how, or those who lack of self decipline, and we hope by using our app, users will get following skills:
-  1.Form some habits(of course!)
-  2.Become self-disciplined 
-  3.Getting knowledge of habit forming
-   Habit forming may be a long and difficult process, you may lose motivation during this process, but we are try to make this process more seperately and fun, to help you carry on.
+## Project Objectives.
+   Our project is designed to help users form habits, By playing CCG games, our main users groups are those people who want to make changes but don't know how, or those who lack of self decipline, and we hope by using our app, users will get following skills.
+  + Form some habits(of course!).
+  + Become self-disciplined.
+  + Getting knowledge of habit forming.  
+  
+    Habit forming may be a long and difficult process, you may lose motivation during this process, but we are try to make this process more seperately and fun, to help you carry on.
 
-### Higher level goals
-   As we mentioned before, fragment information do great harm to our cognation and knowledge acquisition, we must admit that fragmented information is extremely addictive, The research on fragmented information hazards and its nature is a hot topic in current sociology, Fragmented information is attractive because of its small size and fast feedback speed6. By develop this app, we are trying to introduce these features into habit forming, this separates the long and slow-feedback habit shaping process, transform into small goals that are easy to complete and quick to feedback, of course, the realization of this goal requires us to consult more information, so that the app can provide a preset habit formation plan, or help users divide the preset goal scientifically according to the cycle of habit formation, so as to turn disadvantages of fragment information into advantages of habit forming.
-
+### Higher level goals.
+   As we mentioned before, fragment information do great harm to our cognation and knowledge acquisition, we must admit that fragmented information is extremely addictive, The research on fragmented information hazards and its nature is a hot topic in current sociology, by develop this app, we are trying to introduce these features into habit forming, separating the long and slow-feedback habit shaping process, transforming into small goals that are easy to complete and quick to feedback. Finally we want to help people get rid of these addictive information and really focus on their work.
 
