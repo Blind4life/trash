@@ -39,6 +39,6 @@ Good habits not only allow you to focus on your career and keep you full of ener
     Habit forming may be a long and difficult process, you may lose motivation during this process, but we are try to make this process more seperately and fun, to help you carry on.
 
 ### Higher level goals.
-   As we mentioned before, fragment information do great harm to our cognation and knowledge acquisition, we must admit that fragmented information is extremely addictive, The research on fragmented information hazards and its nature is a hot topic in current sociology.
+   As we mentioned before, fragment information do great harm to our cognation and knowledge acquisition, we must admit that fragmented information is extremely addictive, The research on fragmented information hazards and its nature is a hot topic in current sociology.\n
    by develop this app, we are trying to introduce these features into habit forming, separating the long and slow-feedback habit shaping process, transforming into small goals that are easy to complete and quick to feedback. Finally we want to help people get rid of these addictive information and really focus on their work.
 
