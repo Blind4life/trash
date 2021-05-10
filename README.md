@@ -1,9 +1,16 @@
 # introduction
+[**Design Process**](#Why(motivation)?)
 ## abstract
    Littleplanet is a singlepage web application that helps you form habits, we use the **CCG**(**C**ard **C**ollect **G**ame) model to combine efficiency and fun, users will receive generous rewards while constantly punching in to complete the phased goals. At the same time, our application will store your habit shaping process so that you can review to your own habit shaping process. Finally, let you successfully shaping your habits while get the experience of traveling around the world.
+  
+   
    
 ### Why(motivation)?
-   You may find it quiet difficult to form a habit, just like us, according to research, forming a habit may take you about 66 days in average(see **Figure 1**), our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback. Good habits not only allow you to focus on your career and keep you full of energy. Similarly, A growing literature demonstrates the relevance of habit-formation principles to health2.3. herein, we find the entry point of our app.
+   You may find it quiet difficult to form a habit, just like us, according to research, forming a habit may take you about 66 days in average(see **Figure 1**), our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback.
+    <p align="center">
+<img src="https://github.com/Blind4life/Tech/blob/main/N8)MRLSAI7K3M8(PXEYD%7BX7.png?raw=true" width = 50%>
+</p>
+Good habits not only allow you to focus on your career and keep you full of energy. Similarly, A growing literature demonstrates the relevance of habit-formation principles to health2.3. herein, we find the entry point of our app.
 <p align="center">
 <img src="https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true" width = 50%>
 </p>
