@@ -20,7 +20,7 @@
 <img src="https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true" width = 50%>
 </p>
 <b><p align= "center">Figure 1. Habit formation curve</p></b>
-  1. Lally, Phillippa, et al. "How are habits formed: Modelling habit formation in the real world." European journal of social psychology 40.6 (2010): 998-1009.
+> 1. Lally, Phillippa, et al. "How are habits formed: Modelling habit formation in the real world." European journal of social psychology 40.6 (2010): 998-1009.
 
 ### How(Problem frame)?
 &emsp;&emsp;By investigating the habit forming process, we have summarized several rules of habit forming.
