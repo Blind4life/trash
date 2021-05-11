@@ -2,8 +2,12 @@
 * [**Abstract**](#Abstract)
   * [**Why(Our motivation)?**](#whymotivation)
   * [**What(Problem we aim to solve)?**](#howProblem-frame)
+  * [**Higher level overview of our project.**](#howProblem-frame)
 * [**Project Objectives.**](#project-objectives)
   * [**Higher level goals.**](#higher-level-goals)
+  * [**System design logic/how we solve our problem.**](#higher-level-goals)
+* [**Team Checklist**](#higher-level-goals)
+* [**System demo**](#higher-level-goals)
   
 ## Abstract   
 ### Why(Our motivation)?
@@ -47,4 +51,12 @@
 * Times is all we need.
    According to Phillippa Lally's famouse theory, It may take 66 days in average to form a habit, and the number of our rewards corresponds to it .
 
-  Little planet is a single page web application that helps people forming habit, and we inplement all these habit forming pattern into our app design. We allow users to setup specific goals and set times needed to achieve this goal, so 
+  Little planet is a single page web application that helps people forming habit, and we inplement all these habit forming pattern into our app design. We allow users to setup specific goals and set times needed to achieve this goal, everytime user complete small goal, they need to click-in on our app and will receive a random card as stage reward, after user complete a certain goal(click-in enough time), little planet back-end will save this goal in libray to let user review in future. and user can review all rewards they get in gallary page.
+  
+## Team Checklist
+&emsp;&emsp;Following are some key point to check the outcome of our team:
+* Build a working single page application that has all features we mentioned above.
+* Design more attractive UI and improve the quality of our programm to attract more users.
+* Raise awareness of scientific habit forming among our user group, help users to become self-decipline.
+
+## System demo
