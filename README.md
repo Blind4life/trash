@@ -11,7 +11,7 @@
    
    
 ### Why(motivation)?
-&emsp;&emsp;You may find it quiet difficult to form a habit, just like us, according to research, forming a habit may take you about 66 days in average(see **Figure 1**), our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback.
+&emsp;&emsp;You may find it quiet difficult to form a habit, our teammates also have the same concern, according to research, forming a habit may take you about 66 days in average(see **Figure 1**)<sup>1</sup>, our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback.
     <p align="center">
 <img src="https://github.com/Blind4life/Tech/blob/main/N8)MRLSAI7K3M8(PXEYD%7BX7.png?raw=true" width = 50%>
 </p>
@@ -20,6 +20,7 @@
 <img src="https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true" width = 50%>
 </p>
 <b><p align= "center">Figure 1. Habit formation curve</p></b>
+  1. Lally, Phillippa, et al. "How are habits formed: Modelling habit formation in the real world." European journal of social psychology 40.6 (2010): 998-1009.
 
 ### How(Problem frame)?
 &emsp;&emsp;By investigating the habit forming process, we have summarized several rules of habit forming.
