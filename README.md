@@ -1,45 +1,50 @@
 # introduction
 * [**Abstract**](#Abstract)
-  * [**Why(motivation)?**](#whymotivation)
-  * [**How(Problem frame)?**](#howProblem-frame)
+  * [**Why(Our motivation)?**](#whymotivation)
+  * [**What(Problem we aim to solve)?**](#howProblem-frame)
 * [**Project Objectives.**](#project-objectives)
   * [**Higher level goals.**](#higher-level-goals)
   
-## Abstract
-&emsp;&emsp;Littleplanet is a singlepage web application that helps you form habits, we use the **CCG**(**C**ard **C**ollect **G**ame) model to combine efficiency and fun, users will receive generous rewards while constantly punching in to complete the phased goals. At the same time, our application will store your habit shaping process so that you can review to your own habit shaping process. Finally, let you successfully shaping your habits while get the experience of traveling around the world.
-  
-   
-   
-### Why(motivation)?
-&emsp;&emsp;You may find it quiet difficult to form a habit, our teammates also have the same concern, according to research, forming a habit may take you about 66 days in average(see **Figure 1**)<sup>1</sup>, our society is full of [fragment information](http://github.com) too, it also prevent people from focuse on something that is difficult to get short-term feedback.
+## Abstract   
+### Why(Our motivation)?
+&emsp;&emsp;You may find it quiet difficult to form a habit, our teammates also have the same concern. First it actually take a lot of time to form a habit, according to research, forming a habit may take you about 66 days in average(see **Figure 1**)<sup>1</sup>; Second, our society is full of [fragment information](http://github.com), it also block people from focuse on something that is difficult to get **short-term feedback**, just like habit forming; At last, even if you have enough time and with any External interference, you may also failed because don't know the right way to form a habit.
     <p align="center">
 <img src="https://github.com/Blind4life/Tech/blob/main/N8)MRLSAI7K3M8(PXEYD%7BX7.png?raw=true" width = 50%>
 </p>
-&emsp;&emsp;Good habits not only allow you to focus on your career and keep you full of energy. Similarly, A growing literature demonstrates the relevance of habit-formation principles to health2.3. herein, we find the entry point of our app.
+&emsp;&emsp;Good habits not only allow you to focus on your career and keep you full of energy. Similarly, A growing literature demonstrates the relevance of habit-formation principles to health<sup>2.3</sup>. herein, we find the entry point of our app.
 <p align="center">
 <img src="https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true" width = 50%>
 </p>
 <b><p align= "center">Figure 1. Habit formation curve</p></b>
-> 1. Lally, Phillippa, et al. "How are habits formed: Modelling habit formation in the real world." European journal of social psychology 40.6 (2010): 998-1009.
 
-### How(Problem frame)?
-&emsp;&emsp;By investigating the habit forming process, we have summarized several rules of habit forming.
-  + Not linear!
-   It is worth noting that according to research, this process is not linear, which means that the process of habit shaping requires incremental rewards or feedback, That is, the so-called bottleneck period will be encountered in the 60%-80% phase of building habits.
-  + Repetation-feedback model.
-  Behavior shaping model that is generally accepted in the psychology academic community is called the repetition-feedback modele, follow the basic The method of the model follows a process of repeating specific behaviors or prohibiting specific behaviors as planned, and obtaining timely feedback.
-  + Times is all we need.
-  According to Phillippa Lally's famouse theory, It may take 66 days in average to form a habit, but don't worry, we have enough rewards to help you stick to it.
+> 1. Lally, Phillippa, et al. "How are habits formed: Modelling habit formation in the real world." European journal of social psychology 40.6 (2010): 998-1009.
+> 2. Lally, Phillippa, and Benjamin Gardner. "Promoting habit formation." Health psychology review 7.sup1 (2013): S137-S158.
+> 3. Rothman AJ, Sheeran P, Wood W. "Reflective and automatic processes in the initiation and maintenance of dietary change". Ann Behav Med. 2009;38(Suppl1): S4–17.
+
+### What(Problem we aim to solve)?
+&emsp;&emsp;There is three basic problem we aim to solve by develop this app.
+
+* Help users form habits start from the very beginning(Primary goal).
+* Help users become self-disciplined.
+* Raise awareness that habits can be formed scientifically and effectively by spread the knowledge of habit forming.
+
+### Higher level overview of our project.
+&emsp;&emsp;Little planet is a one page web application that helps users to form habits in the form of CCG(Card Collect Game), We let users to seperate their big goal into small and easy pieces, everytime users achieved a small goal they can click in and get a corresponding card reward(representative attractions in various countries), this will motivate users carry on their habit forming process. we also store the user's  habit forming path in local database, so users can review their achievement in the web page library. Our app follow the classic repetition-feedback model in psychology, so users can get timely feedback after completing the staged small goals, users can finally form some habits by the repetition of this process.
 
 ## Project Objectives.
-&emsp;&emsp;Our project is designed to help users form habits, By playing CCG games, our main users groups are those people who want to make changes but don't know how, or those who lack of self decipline, and we hope by using our app, users will get following skills.
-  + Form some habits(of course!).
-  + Become self-disciplined.
-  + Getting knowledge of habit forming.  
-  
-&emsp;&emsp;Habit forming may be a long and difficult process, you may lose motivation during this process, but we are try to make this process more seperately and fun, to help you carry on.
+&emsp;&emsp;Our primary goal is to complete a MEAN stack single page application, which front-end allow users to setup goals, click-in and review their achievement and save all these data in database by the implementation of java. 
 
 ### Higher level goals.
-&emsp;&emsp;As we mentioned before, fragment information do great harm to our cognation and knowledge acquisition, we must admit that fragmented information is extremely addictive, The research on fragmented information hazards and its nature is a hot topic in current sociology.  
-&emsp;&emsp;by develop this app, we are trying to introduce these features into habit forming, separating the long and slow-feedback habit shaping process, transforming into small goals that are easy to complete and quick to feedback. Finally we want to help people get rid of these addictive information and really focus on their work.
+* Spread the knowledge of scientific habit forming, especially in university student group, so user group may know how to design a plan to form a habit themselves.
+* By achieve goals through divide big goals into small part, we raise awareness of the power **fragmentation**, at the same time, we hope user could know how attractive and easy addictive fragment-information is, so user can stay away from these temptations in their future lives.
 
+### System design logic/how we solve our problem.
+&emsp;&emsp;We implement some key concept into our app design:
+* Not linear.
+   Habit-forming is not linear, which means that the process of habit shaping requires incremental rewards or feedback.
+* Repetation-feedback model.
+   Repetition-feedback model follows a process of repeating specific behaviors or prohibiting specific behaviors as planned, and obtaining timely feedback.
+* Times is all we need.
+   According to Phillippa Lally's famouse theory, It may take 66 days in average to form a habit, and the number of our rewards corresponds to it .
+
+  Little planet is a single page web application that helps people forming habit, and we inplement all these habit forming pattern into our app design. We allow users to setup specific goals and set times needed to achieve this goal, so 
