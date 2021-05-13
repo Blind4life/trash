@@ -2,6 +2,9 @@
     In order to test whether our products can meet the needs of users as designed, We undertook the user-acceptance testing. 
     Our main test subjects are friends around us, and the app patch we used for test is our front-end patch. In order to facilitate users to provide feedback, 
     We recommend our users to suggest from the following aspects:
+     <p align="center">
+<img src="https://github.com/Blind4life/Tech/blob/main/ZW%5B8(OIBVKBL~36%7BMX6PTQP.png?raw=true" width = 50%>
+</p>
    
    * Functional completeness 
       Our application designed to provides the following functions:
