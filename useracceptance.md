@@ -23,7 +23,7 @@
    * Other suggestion(Strengh/weakness)
         
    <p align="center">
-<img src="https://github.com/Blind4life/Tech/blob/main/AO%5BB_%5D27%60FAYMBJWKIRI_2K.png?raw=true" width = 50%>
+<img src="https://github.com/Blind4life/Tech/blob/main/mutong.jpg?raw=true" width = 50%>
 </p>
 
 
