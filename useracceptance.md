@@ -12,7 +12,8 @@
       - Tracking function. User can keep tracking their app-using process
       - Review function. User can review their achievement through app
       - Reward system. User can get corresponding reward by app.
-   * Ease of interaction 
+      We hope users give their opinion whether we complete these function.
+   * Ease to use 
       we hope that our app not only function well, but also easy to use, this means, we try to simplify the user interface as much 
       as possible while maintaining the completeness of the functions, so as to make it easier for users to interact. We hope users to suggest from following aspects:
       - Pages/Button easy to find
@@ -29,9 +30,4 @@
 <img src="https://github.com/Blind4life/Tech/blob/main/mutong.jpg?raw=true" width = 30%>
 </p>
 
-
-    1.功能完整性
-    2.交互是否便利
-    3.UI设计/包含界面简化及功能补充
-    4.缺点
-    5.建议
+    And finally we get some feedback from our user
